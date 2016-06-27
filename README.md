@@ -1,5 +1,5 @@
 # Maps
-Quick setup
+Quick setup:
 
 1) clone project<br/>
 2) open console<br/>
