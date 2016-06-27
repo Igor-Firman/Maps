@@ -1,0 +1,9 @@
+[
+	{"x":29.717833, "y":60.013785, "dx":12, "dy":8, "url":"https://static-maps.yandex.ru/1.x/?ll=29.717833,60.013785&z=7&l=map&size=450,150"},
+	{"x":32.187833, "y":60.013785, "dx":12, "dy":8, "url":"https://static-maps.yandex.ru/1.x/?ll=34.661833,60.013785&z=7&l=map&size=450,150"},
+	{"x":34.659833, "y":60.013785, "dx":12, "dy":8, "url":"https://static-maps.yandex.ru/1.x/?ll=39.600000,60.013785&z=7&l=map&size=450,150"},
+
+	{"x":29.717833, "y":59.600999, "dx":12, "dy":8, "url":"https://static-maps.yandex.ru/1.x/?ll=29.717833,59.180999&z=7&l=map&size=450,150"},
+	{"x":32.187833, "y":59.600999, "dx":12, "dy":8, "url":"https://static-maps.yandex.ru/1.x/?ll=32.187833,59.180999&z=7&l=map&size=450,150"},
+	{"x":34.659833, "y":59.600999, "dx":12, "dy":8, "url":"https://static-maps.yandex.ru/1.x/?ll=34.659833,59.180999&z=7&l=map&size=450,150"}
+]
